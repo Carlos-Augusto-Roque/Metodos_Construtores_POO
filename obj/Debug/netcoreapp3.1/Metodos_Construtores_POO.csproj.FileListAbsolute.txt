@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\bin\Debug\netcoreapp3.1\Metodos_Construtores_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Metodos_Construtores_POO\obj\Debug\netcoreapp3.1\Metodos_Construtores_POO.genruntimeconfig.cache
